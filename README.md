@@ -58,7 +58,7 @@ Devido à cultura de higiene no Brasil, o país é lider na compra de produtos d
 
 [6] [IBGE - Projeção da População do Brasil e das Unidades da Federação](https://web.archive.org/web/20210721090237/https://www.ibge.gov.br/apps/populacao/projecao/index.html) Módulo U. Acessado em 21/07/2010 às 07:23
 
-[7] [Mordor Intelligence - South America Oral Care Market - Growth Trends, Covid-19 Impact and Forecasts (2021-2026)](https://web.archive.org/web/20210721134210/https://www.mordorintelligence.com/industry-reports/south-america-oral-care-market)
+[7] [Mordor Intelligence - South America Oral Care Market - Growth Trends, Covid-19 Impact and Forecasts (2021-2026)](https://web.archive.org/web/20210721134210/https://www.mordorintelligence.com/industry-reports/south-america-oral-care-market) Acessado 21/07/2021 às 09:25
 
 [8] [Exame - Consumo](https://web.archive.org/web/20210721135556/https://exame.com/economia/consumo-m0040048/) Acessado 21/07/2021 às 10:58
 
