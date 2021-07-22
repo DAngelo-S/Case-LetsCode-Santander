@@ -4,7 +4,7 @@ Este é o case proposto pela Let's Code para concorrer à bolsa de estudos Santa
 
 As fontes dos dados foram salvos através do WebArchive, assim não as perderemos com o passar do tempo!
 
-Os calculos realizados podem ser consultados através do arquivo analises.ipynb
+Os calculos realizados podem ser consultados através do arquivo [analises.ipynb](analises.ipynb)
 
 ## Estimativa
 
